@@ -1,2 +1,3 @@
 # hello-world
-Random probálkozás
+
+TicTac vagyok és utálok intézkedni.
